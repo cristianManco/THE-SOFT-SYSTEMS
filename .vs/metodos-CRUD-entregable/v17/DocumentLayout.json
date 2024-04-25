@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|c:\\users\\camilo\\source\\repos\\metodos-crud-entregable\\metodos-crud-entregable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|solutionrelative:metodos-crud-entregable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|c:\\users\\camilo\\source\\repos\\metodos-crud-entregable\\metodos-crud-entregable\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|solutionrelative:metodos-crud-entregable\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|c:\\users\\camilo\\source\\repos\\metodos-crud-entregable\\metodos-crud-entregable\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|solutionrelative:metodos-crud-entregable\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|c:\\users\\camilo\\source\\repos\\metodos-crud-entregable\\metodos-crud-entregable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|solutionrelative:metodos-crud-entregable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\connectDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38E43E-4FD7-44EC-A380-814A6EFE1261}|metodos-CRUD-entregable\\metodos-CRUD-entregable.csproj|solutionrelative:metodos-CRUD-entregable\\connectDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\Form1.cs",
+              "RelativeDocumentMoniker": "metodos-CRUD-entregable\\Form1.cs",
+              "ToolTip": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "metodos-CRUD-entregable\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:17:36.95Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\Form3.cs",
+              "RelativeDocumentMoniker": "metodos-CRUD-entregable\\Form3.cs",
+              "ToolTip": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\Form3.cs",
+              "RelativeToolTip": "metodos-CRUD-entregable\\Form3.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAuwGUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:31:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\Form2.cs",
+              "RelativeDocumentMoniker": "metodos-CRUD-entregable\\Form2.cs",
+              "ToolTip": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\Form2.cs",
+              "RelativeToolTip": "metodos-CRUD-entregable\\Form2.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAAAF4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:31:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\Form1.cs",
+              "RelativeDocumentMoniker": "metodos-CRUD-entregable\\Form1.cs",
+              "ToolTip": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\Form1.cs",
+              "RelativeToolTip": "metodos-CRUD-entregable\\Form1.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAHMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:30:25.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "connectDB.cs",
+              "DocumentMoniker": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\connectDB.cs",
+              "RelativeDocumentMoniker": "metodos-CRUD-entregable\\connectDB.cs",
+              "ToolTip": "C:\\Users\\CAMILO\\source\\repos\\metodos-CRUD-entregable\\metodos-CRUD-entregable\\connectDB.cs",
+              "RelativeToolTip": "metodos-CRUD-entregable\\connectDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:49:18.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
