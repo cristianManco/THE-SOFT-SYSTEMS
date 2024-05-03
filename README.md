@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="./WhatsApp Image 2024-05-02 at 6.23.35 AM.jpeg" width="400" alt="Nest Logo" /></a>
+  <a href="https://dotnet.microsoft.com/es-es/" target="blank"><img src="./metodos-CRUD-entregable/Resources/OIG3.jpg" width="400" alt="Logo" /></a>
 </p>
 
 # Sistema de Gestión de Empleados
